@@ -72,9 +72,9 @@ Center(
 ```
 
 ## How to use feature with pasting a code
-The example is here https://github.com/awaik/flutter_verification_code/issues/23
+The example is here https://github.com/honorjoey/verification_code_flutter/issues
 
-Full example is here https://github.com/awaik/flutter_verification_code/tree/master/example
+Full example is here https://github.com/honorjoey/verification_code_flutter/tree/main/example
 
 ## Showcase
 
