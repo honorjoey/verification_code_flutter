@@ -279,7 +279,8 @@ class _VerificationCodeState extends State<VerificationCode> {
                 _value = _value.substring(1);
               }
 
-              if (_listControllerText[widget.length - 1].value.text.length == 1 &&
+              if (_listControllerText[widget.length - 1].value.text.length ==
+                      1 &&
                   _getInputVerify().length == widget.length) {
                 setState(() {
                   _isCompleted = true;
@@ -373,7 +374,7 @@ class _VerificationCodeState extends State<VerificationCode> {
     return cdata?.text ?? '';
   }
 
-  Widget _clearAllWidget(child) {
+  Widget _clearAllWidget(Widget? child) {
     return GestureDetector(
       behavior: HitTestBehavior.opaque,
       onTap: () {
