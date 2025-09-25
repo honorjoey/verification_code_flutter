@@ -12,7 +12,7 @@
 
 - add showBorder property to show or hide border
 
-- add borderColor property to customize border color
+- add borderRadius property to customize border radius
 
 - change edit filed center align
 

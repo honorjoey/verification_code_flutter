@@ -1,7 +1,7 @@
 name: verification_code_flutter
 homepage: https://github.com/honorjoey/verification_code_flutter.git
 description: A Flutter package that help you create a verification input.
-version: 1.0.3
+version: 1.0.4
 
 environment:
   sdk: ">=2.16.2 <4.0.0"
